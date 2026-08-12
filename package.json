@@ -17,11 +17,11 @@
   },
   "devDependencies": {
     "jest": "^30.0.0",
-    "jest-junit": "^16.0.0"
+    "jest-junit": "^16.0.0",
+    "supertest": "^7.2.2"
   },
   "jest-junit": {
     "outputDirectory": "reports",
     "outputName": "junit.xml"
   }
 }
-
